@@ -20,10 +20,12 @@ To run the program, use the following command in the terminal:
     - e.g. ```./thai_tokenizer.py <input_file> <output_file>```
     - ```./japanese_tokenizer.py <input_file> <output_file>```
 
-Notes:
-    - The sample_out.txt file contains the correctly tokenized output of the in.txt file. Therefore, check the program output against this file.
-    - gold_standard.txt contains the ideal tokenization. 
-    
+#### Notes:
+
+The sample_out.txt file contains the correctly tokenized output of the in.txt file. Therefore, check the program output against this file.
+
+gold_standard.txt contains the ideal tokenization. 
+
     Accuracy: <# correct / total # of sentences>
 
 ### Author
