@@ -13,7 +13,7 @@ The code is in Python3 (version 3.0 or higher will work). The only other require
 
 ### Execution
 
-To run the program, using the following command in the terminal:
+To run the program, use the following command in the terminal:
 - ```./<python3_program.py> <input_file> <output_file>```
     - e.g. ```./nltk_clean_and_count_stems.py <input_file> <output_file>```
 
