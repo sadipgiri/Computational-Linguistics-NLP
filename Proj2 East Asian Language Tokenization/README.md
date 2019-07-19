@@ -6,7 +6,6 @@ a file with the same lines of text with spaces added between words.
 2. Thai Tokenization
     - used the same above defined MaxMatch algorithm
     - optimization could be done a simplified Finite State Automata technique—Categorizing Thai characters. In addition to that, reference such as https://www.aclweb.org/anthology/W13-4702.
-<br/>
   
 ## Code Requirements
 

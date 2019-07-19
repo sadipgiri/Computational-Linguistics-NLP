@@ -4,7 +4,6 @@ Clean a file and count the words in it that uses:
 stemmer after cleaning out the tags, but before counting the tokens.
 2. Also, write own Porter Stemmer referencing https://tartarus.org/martin/PorterStemmer/def.txt the original Porter Stemmer paper that describes the
 algorithm in detail.
-<br/>
   
 ## Code Requirements
 
